@@ -1,0 +1,25 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.continer .bout{
+    
+    margin:20px;
+    height:50px;
+}
+
+    
+
+.mainDiv{
+
+    position: absolute;
+    margin: 0px 20px;
+   
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+
